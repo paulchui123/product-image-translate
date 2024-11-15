@@ -1,9 +1,12 @@
 # Image Translate API - Image Translation Service
 
 This API provides a simple interface to translate text within images from a source language to a target language. The service accepts an image URL, the source language, and the target language, then returns a translated image URL.
-[Image Translate API](https://rapidapi.com/paulchui/api/image-translate)
 ---
+
 ### **The API **
+[Image Translate API](https://rapidapi.com/paulchui/api/image-translate)
+
+
 ![image](https://i.imgur.com/2mDIdAr.jpg)
 
 
