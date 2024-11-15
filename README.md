@@ -62,3 +62,27 @@ The API supports translations from **English** (`en`) to the following languages
 
 
 [Image Translate API](https://rapidapi.com/paulchui/api/image-translate)
+
+## Pricing Plan
+
+| **Plan**        | **Price**   | **Requests Included** | **Additional Requests** |
+|------------------|-------------|-----------------------|--------------------------|
+| Pay-as-You-Go    | $0.03/req   | Unlimited             | $0.03 per additional request |
+
+### Details:
+- **Pricing**: $0.03 per request.
+- **Unlimited Requests**: No monthly caps—pay only for what you use.
+- **Use Cases**:
+  - Translate images with embedded text.
+  - Ideal for applications requiring high accuracy and scalability.
+
+---
+
+### Costs:
+- **1 request**: $0.03
+- **100 requests**: $3.00
+- **1,000 requests**: $30.00
+
+---
+
+Get started now and pay only for the requests you make!
